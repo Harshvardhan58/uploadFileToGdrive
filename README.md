@@ -1,6 +1,7 @@
 # Upload File through Bash script Using Curl
 
 #Dependencies
+
 -curl
 
 #Instructions to run Script
@@ -17,7 +18,9 @@
 
 # Upload File to Folder through Bash script Using Curl
 #Dependencies
+
 -curl
+
 -url_escape.sed
 
 #Instructions to run Script
