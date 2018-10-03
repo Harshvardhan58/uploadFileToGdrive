@@ -9,7 +9,7 @@
 -Requirements
 1. Access Token to Google drive
 
--Steps
+2.
 
     Script can be run using the following command - $sh uploadFileToGdrive.sh [File Name] [Access Token]
     Example - $sh uploadFileToGdrive.sh Test.txt [Access Token]
@@ -28,7 +28,7 @@
 -Requirements
 1. Access Token to Google drive
 
--Steps
+2.
 
     Script can be run using the following command - /bin/bash uploadFileToFolder.sh [File Name] [Folder Name] [Access Token]
     Example - /bin/bash uploadFileToFolder.sh Test.txt Geminid [Access Token]
